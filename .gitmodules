@@ -1,0 +1,6 @@
+[submodule "path"]
+	path = path
+	url = https://github.com/BaXXeRFeeD/test-rep.git
+[submodule "path2"]
+	path = path2
+	url = https://github.com/Kleopatr1351/my_project_George_Pol_M3107
